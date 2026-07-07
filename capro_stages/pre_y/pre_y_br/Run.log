@@ -1,0 +1,45 @@
+/opt/gridengine/default/spool/compute-0-1/active_jobs/10854.1/pe_hostfile
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+SCRDIR /scr/osmo8974/pre_y_br-10854
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  pre_y_br  with 16 processors. 
+Running on  compute-0-1.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 30 15:56:14 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 30 15:56:14 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10854.1.all.q/rsh': No such file or directory

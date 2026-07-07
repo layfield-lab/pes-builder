@@ -1,0 +1,45 @@
+/opt/gridengine/default/spool/compute-0-7/active_jobs/10861.1/pe_hostfile
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+SCRDIR /scr/osmo8974/ts_al_br-10861
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  ts_al_br  with 16 processors. 
+Running on  compute-0-7.local
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 10:11:28 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 10:11:28 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10861.1.all.q/rsh': No such file or directory

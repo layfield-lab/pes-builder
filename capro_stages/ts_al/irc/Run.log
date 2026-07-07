@@ -1,0 +1,88 @@
+/opt/gridengine/default/spool/compute-0-7/active_jobs/10786.1/pe_hostfile
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2svp-toluene-irc-forward-wb97xd-def2svp-toluene-10786
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2svp-toluene-irc-forward-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-7.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jun 22 15:25:51 CDT 2026
+
+---------------------------------------------------------------------------
+
+/opt/gridengine/default/spool/compute-0-0/active_jobs/10787.1/pe_hostfile
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2svp-toluene-irc-reverse-wb97xd-def2svp-toluene-10787
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2svp-toluene-irc-reverse-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-0.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jun 22 15:26:14 CDT 2026
+
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jun 22 15:25:51 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10786.1.all.q/rsh': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jun 22 15:26:14 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10787.1.all.q/rsh': No such file or directory

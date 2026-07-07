@@ -1,0 +1,77 @@
+/opt/gridengine/default/spool/compute-0-3/active_jobs/10856.1/pe_hostfile
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+SCRDIR /scr/osmo8974/pre_y_no2-10856
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  pre_y_no2  with 16 processors. 
+Running on  compute-0-3.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 30 15:57:17 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 30 15:57:17 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10856.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-6/active_jobs/10882.1/pe_hostfile
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+SCRDIR /scr/osmo8974/pre_y_no2_2-10882
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  pre_y_no2_2  with 16 processors. 
+Running on  compute-0-6.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 10:02:08 CDT 2026
+
+---------------------------------------------------------------------------
+

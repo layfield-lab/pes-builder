@@ -1,0 +1,78 @@
+/opt/gridengine/default/spool/compute-0-4/active_jobs/10871.1/pe_hostfile
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+SCRDIR /scr/osmo8974/int1_al_no2-10871
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  int1_al_no2  with 16 processors. 
+Running on  compute-0-4.local
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 11:11:24 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10871.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-10/active_jobs/10878.1/pe_hostfile
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+compute-0-10
+SCRDIR /scr/osmo8974/int1_al_no2-10878
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  int1_al_no2  with 16 processors. 
+Running on  compute-0-10.local
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 13:25:32 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 13:25:32 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10878.1.all.q/rsh': No such file or directory

@@ -1,0 +1,93 @@
+/opt/gridengine/default/spool/compute-0-1/active_jobs/10799.1/pe_hostfile
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+SCRDIR /scr/osmo8974/Bi_pre-wb97xd-def2svp-toluene-irc-forward-wb97xd-def2svp-toluene-10799
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  Bi_pre-wb97xd-def2svp-toluene-irc-forward-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-1.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:24:39 CDT 2026
+
+---------------------------------------------------------------------------
+
+/opt/gridengine/default/spool/compute-0-9/active_jobs/10800.1/pe_hostfile
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+SCRDIR /scr/osmo8974/Bi_pre-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene-10800
+cp: cannot stat `Bi_pre-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  Bi_pre-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-9.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:24:52 CDT 2026
+
+---------------------------------------------------------------------------
+
+ Unable to open input file "Bi_pre-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com" or "Bi_pre-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com".
+/opt/gridengine/default/spool/compute-0-9/job_scripts/10800: line 47: 19512 Segmentation fault      (core dumped) g09 Bi_pre-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com
+cp: cannot stat `Bi_pre-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.log': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:24:52 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10800.1.all.q/rsh': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:24:39 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10799.1.all.q/rsh': No such file or directory

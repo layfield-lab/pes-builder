@@ -1,0 +1,32 @@
+/opt/gridengine/default/spool/compute-0-2/active_jobs/10899.1/pe_hostfile
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+SCRDIR /scr/osmo8974/pre_y_ph_thiono-10899
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  pre_y_ph_thiono  with 16 processors. 
+Running on  compute-0-2.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 14:44:11 CDT 2026
+
+---------------------------------------------------------------------------
+

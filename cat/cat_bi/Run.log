@@ -1,0 +1,105 @@
+/opt/gridengine/default/spool/compute-0-3/active_jobs/10892.1/pe_hostfile
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+compute-0-3
+SCRDIR /scr/osmo8974/cat_bi_16-10892
+-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+compute-0-1
+SCRDIR /scr/osmo8974/cat_bi_tbu-10890
+ch file or directory
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  cat_bi_16  with 16 processors. 
+Running on  compute-0-3.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 12:14:59 CDT 2026
+
+---------------------------------------------------------------------------
+
+ Unable to open input file "cat_bi_16.com" or "cat_bi_16.com".
+/opt/gridengine/default/spool/compute-0-3/job_scripts/10892: line 47: 30034 Segmentation fault      (core dumped) g09 cat_bi_16.com
+cp: cannot stat `cat_bi_16.log': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 12:14:59 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10892.1.all.q/rsh': No such file or directory
+SCRDIR /scr/osmo8974/cat_bi_no2-10891
+cp: cannot stat `*.chk'cp: cannot stat `*.chk': No such file or directory: No such file or directory
+
+cp: cannot stat `*gbs': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  cat_bi_no2  with 16 processors. 
+Running on  compute-0-1.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 12:14:52 CDT 2026
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+
+Starting Gaussian  cat_bi_tbu  with 16 processors. 
+Running on  compute-0-1.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 12:14:46 CDT 2026
+
+---------------------------------------------------------------------------
+

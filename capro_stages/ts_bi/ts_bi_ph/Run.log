@@ -1,0 +1,89 @@
+/opt/gridengine/default/spool/compute-0-7/active_jobs/10770.1/pe_hostfile
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+SCRDIR /scr/osmo8974/Bi-Ts-wb97xd-def2svp-toluene-10770
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  Bi-Ts-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-7.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 18 10:02:28 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 18 10:02:28 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10770.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-2/active_jobs/10806.1/pe_hostfile
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+SCRDIR /scr/osmo8974/Ts_Bi-wb97xd-def2tzvp-toluene-10806
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  Ts_Bi-wb97xd-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-2.local
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jun 24 09:35:22 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jun 24 09:35:22 CDT 2026
+
+---------------------------------------------------------------------------
+

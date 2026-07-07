@@ -1,0 +1,136 @@
+/opt/gridengine/default/spool/compute-0-8/active_jobs/10797.1/pe_hostfile
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2svp-toluene-irc-forward-wb97xd-def2svp-toluene-10797
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2svp-toluene-irc-forward-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:22:47 CDT 2026
+
+---------------------------------------------------------------------------
+
+/opt/gridengine/default/spool/compute-0-6/active_jobs/10798.1/pe_hostfile
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene-10798
+cp: cannot stat `PhTs-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-6.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:23:04 CDT 2026
+
+---------------------------------------------------------------------------
+
+ Unable to open input file "PhTs-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com" or "PhTs-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com".
+/opt/gridengine/default/spool/compute-0-6/job_scripts/10798: line 47: 14886 Segmentation fault      (core dumped) g09 PhTs-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.com
+cp: cannot stat `PhTs-wb97xd-def2svp-toluene-irc-backward-wb97xd-def2svp-toluene.log': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:23:04 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10798.1.all.q/rsh': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 13:22:47 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10797.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-2/active_jobs/10823.1/pe_hostfile
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2svp-toluene-irc-reverse-wb97xd-def2svp-toluene-10823
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2svp-toluene-irc-reverse-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-2.local
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jun 24 11:47:31 CDT 2026
+
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jun 24 11:47:31 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10823.1.all.q/rsh': No such file or directory

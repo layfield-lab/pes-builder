@@ -1,0 +1,78 @@
+/opt/gridengine/default/spool/compute-0-9/active_jobs/10872.1/pe_hostfile
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+compute-0-9
+SCRDIR /scr/osmo8974/int1_al_tbu-10872
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  int1_al_tbu  with 16 processors. 
+Running on  compute-0-9.local
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 11:11:33 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10872.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-8/active_jobs/10877.1/pe_hostfile
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+SCRDIR /scr/osmo8974/int1_al_tbu-10877
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  int1_al_tbu  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 13:24:24 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Wed Jul 1 13:24:24 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10877.1.all.q/rsh': No such file or directory

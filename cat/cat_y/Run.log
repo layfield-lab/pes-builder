@@ -1,0 +1,96 @@
+/opt/gridengine/default/spool/compute-0-8/active_jobs/10887.1/pe_hostfile
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+SCRDIR /scr/osmo8974/cat_y_tbu-10887
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  cat_y_tbu  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 12:06:42 CDT 2026
+
+---------------------------------------------------------------------------
+
+/opt/gridengine/default/spool/compute-0-5/active_jobs/10889.1/pe_hostfile
+/opt/gridengine/default/spool/compute-0-5/active_jobs/10888.1/pe_hostfile
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+SCRDIR /scr/osmo8974/cat_y_br-10889
+SCRDIR /scr/osmo8974/cat_y_no2-10888
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  cat_y_no2  with 16 processors. 
+Running on  compute-0-5.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 12:06:47 CDT 2026
+
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  cat_y_br  with 16 processors. 
+Running on  compute-0-5.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 12:06:54 CDT 2026
+
+---------------------------------------------------------------------------
+

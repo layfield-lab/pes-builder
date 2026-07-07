@@ -1,0 +1,105 @@
+/opt/gridengine/default/spool/compute-0-14/active_jobs/10769.1/pe_hostfile
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+compute-0-14
+SCRDIR /scr/osmo8974/Bi_pre-wb97xd-def2svp-toluene-10769
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  Bi_pre-wb97xd-def2svp-toluene  with 32 processors. 
+Running on  compute-0-14.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 18 10:01:42 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 18 10:01:42 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10769.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-7/active_jobs/10803.1/pe_hostfile
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+SCRDIR /scr/osmo8974/Pre_Bi-wb97xd-def2tzvp-toluene-10803
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  Pre_Bi-wb97xd-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-7.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 14:05:42 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 14:05:42 CDT 2026
+
+---------------------------------------------------------------------------
+

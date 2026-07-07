@@ -1,0 +1,7 @@
+# Gaussian checkpoint files: binary restart files (100-110MB each in this
+# project), not needed to reproduce the analysis or figures.
+*.chk
+
+__pycache__/
+*.pyc
+.DS_Store

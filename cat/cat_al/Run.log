@@ -1,0 +1,90 @@
+/opt/gridengine/default/spool/compute-0-4/active_jobs/10885.1/pe_hostfile
+/opt/gridengine/default/spool/compute-0-4/active_jobs/10884.1/pe_hostfile
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+compute-0-4
+SCRDIR /scr/osmo8974/cat_al_no2-10885
+0-2/active_jobs/10886.1/pe_hostfile
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+compute-0-2
+SCRDIR /scr/osmo8974/cat_al_br-10886
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+-------------------------
+
+Starting Gaussian  cat_al_no2  with 16 processors. 
+Running on  compute-0-4.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 11:57:54 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*gbs': No such file ocp: cannot s
+--------------------------------------cp: cannot stat `*gbs': No such file or directory
+ussian  cat_al_br  with 16 processors. 
+Running on  compute-0-2.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 11:58:00 CDT 2026
+
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  cat_al_tbu  with 16 processors. 
+Running on  compute-0-4.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jul 6 11:57:49 CDT 2026
+
+---------------------------------------------------------------------------
+

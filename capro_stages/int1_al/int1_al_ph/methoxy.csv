@@ -1,0 +1,2 @@
+molecule,method,basis,solvent,E,ZPE,F_std,F_quasi
+int1_al,wb97xd,def2svp,toluene,-2513.22019563,0.954159,-2512.3483885010173,-2512.3421263398563

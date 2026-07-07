@@ -1,0 +1,518 @@
+/opt/gridengine/default/spool/compute-0-6/active_jobs/10686.1/pe_hostfile
+/opt/gridengine/default/spool/compute-0-6/active_jobs/10685.1/pe_hostfile
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2svp-toluene-10685
+0689.1/pe_hostfile
+/opt/gridengine/default/spool/compute-0-8/active_jobs/10690.1/pe_hostfile
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+SCRDIR /scr/osmo8974/PhTs-m06l-def2tzvp-toluene-10688
+e-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+SCRDIR /scr/osmo8974/PhTs-m06-2x-def2tzvp-toluene-10690
+R /scr/osmo8974/PhTs-wb97xd-def2tzvp-toluene-10686
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-6.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-6.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+SCRDIR /scr/osmo8974/PhTs-m06-2x-def2svp-toluene-10689
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+SCRDIR /scr/osmo8974/PhTs-m06l-def2svp-toluene-10687
+-----------------------
+
+Starting Gaussian  PhTs-m06-2x-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-m06-2x-def2svp-toluene  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+such file or directory: No such file or directory
+
+cp: cannot stat `*gbs'cp: cannot stat `*gbs': No such file or directory: No such file or directory
+
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+
+Starting Gaussian  PhTs-m06l-def2svp-toluene  with 16 processors. 
+Starting Gaussian  PhTs-m06l-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-1.local
+Running on  compute-0-1.local
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10689.1.all.q/rsh': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10690.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-8/active_jobs/10693.1/pe_hostfile
+/opt/gridengine/default/spool/compute-0-8/active_jobs/10694.1/pe_hostfile
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+SCRDIR /scr/osmo8974/PhTs-m06l-def2svp-toluene-10693
+/10692.1/pe_hostfile
+/opt/gridengine/default/spool/compute-0-5/active_jobs/10691.1/pe_hostfile
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2svp-toluene-10691
+p: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-m06l-def2svp-toluene  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:40:58 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-m06l-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:40:58 CDT 2026
+
+---------------------------------------------------------------------------
+
+SCRDIR /scr/osmo8974/PhTs-wb97xd-def2tzvp-toluene-10692
+cp: cannot stat `*.chk'cp: : No such file or directory
+cannot stat `*.chk': No such file or directory
+cp: cp: cannot stat `*gbs'cannot stat `*gbs': No such file or directory
+: No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2svp-toluene  with 16 processors. 
+Running on  compute-0-5.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:40:58 CDT 2026
+
+---------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-wb97xd-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-5.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:40:58 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10691.1.all.q/rsh': No such file or directory
+rm: cannot remove `/tmp/10692.1.all.q/rsh': No such file or directory
+rm: cannot remove `/tmp/10693.1.all.q/rsh': No such file or directory
+rm: cannot remove `/tmp/10694.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-8/active_jobs/10695.1/pe_hostfile
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+compute-0-8
+SCRDIR /scr/osmo8974/PhTs-m062x-def2svp-toluene-10695
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-m062x-def2svp-toluene  with 16 processors. 
+Running on  compute-0-8.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:40:58 CDT 2026
+
+---------------------------------------------------------------------------
+
+/opt/gridengine/default/spool/compute-0-5/active_jobs/10696.1/pe_hostfile
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+compute-0-5
+SCRDIR /scr/osmo8974/PhTs-m062x-def2tzvp-toluene-10696
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  PhTs-m062x-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-5.local
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:40:58 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10687.1.all.q/rsh': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10685.1.all.q/rsh': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:40:58 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10695.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-7/active_jobs/10740.1/pe_hostfile
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+SCRDIR /scr/osmo8974/m06l-def2tzvp-svpgeom-10740
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  m06l-def2tzvp-svpgeom  with 16 processors. 
+Running on  compute-0-7.local
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jun 15 10:35:48 CDT 2026
+
+---------------------------------------------------------------------------
+
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Thu Jun 11 15:38:21 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10688.1.all.q/rsh': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Mon Jun 15 10:35:48 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10740.1.all.q/rsh': No such file or directory
+rm: cannot remove `/tmp/10696.1.all.q/machines': No such file or directory
+rm: cannot remove `/tmp/10696.1.all.q/rsh': No such file or directory
+/opt/gridengine/default/spool/compute-0-0/active_jobs/10805.1/pe_hostfile
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+SCRDIR /scr/osmo8974/ts_Al-wb97xd-def2tzvp-toluene-10805
+cp: cannot stat `*.chk': No such file or directory
+cp: cannot stat `*gbs': No such file or directory
+
+---------------------------------------------------------------------------
+
+Starting Gaussian  ts_Al-wb97xd-def2tzvp-toluene  with 16 processors. 
+Running on  compute-0-0.local
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 14:57:47 CDT 2026
+
+---------------------------------------------------------------------------
+
+rm: cannot remove `/tmp/10686.1.all.q/machines': No such file or directory
+rm: cannot remove `/tmp/10686.1.all.q/rsh': No such file or directory
+cp: cannot stat `*.chk': No such file or directory
+
+---------------------------------------------------------------------------
+
+Job is finished.
+
+---------------------------------------------------------------------------
+
+Date:  Tue Jun 23 14:57:47 CDT 2026
+
+---------------------------------------------------------------------------
+
